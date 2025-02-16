@@ -1,1 +1,3 @@
 # Dictionary-
+CREATE 30-WORD DICTIONARY USING PYDROID
+https://youtu.be/53PnELmrR4Q?si=-OXdESiq9i70PRyG
